@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💻 Web Development graduate at Le Wagon London
+- 🌱 I’m currently learning Python 🐍 and JS frameworks
+- 👯 I’m looking to collaborate on full-stack projects
+- ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands
+
 <!--
 **Pilar-SP/Pilar-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

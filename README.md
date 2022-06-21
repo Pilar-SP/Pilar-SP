@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💻 Web Development graduate at Le Wagon London
-- 🌱 I’m currently learning Python 🐍 and JS frameworks
-- 👯 I’m looking to collaborate on full-stack projects
+- 🌱 I’m currently learning Python 🐍
+- 👯 I’m looking to collaborate on front or back end projects
 - ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands
 
 <!--

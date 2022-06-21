@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=#&fontSize=#)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=#&fontSize=#)
+<div align="center">
+<div> 💻 Web Development graduate at Le Wagon London</div>
+<div> 🌱 I’m currently learning Python 🐍 and more to come</div>
+<div> 👯 I’m looking to collaborate on front or back end projects on Ruby on Rails</div>
+<div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
+</div>
 
-- 💻 Web Development graduate at Le Wagon London
-- 🌱 I’m currently learning Python 🐍
-- 👯 I’m looking to collaborate on front or back end projects on Ruby on Rails
-- ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=#r&fontSize=#)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=#r&fontSize=#)
 
 
 <!--

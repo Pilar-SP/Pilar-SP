@@ -1,15 +1,19 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=#&fontSize=#)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=#&fontSize=#)
 <div align="center">
+ <img align="left" src="https://ih1.redbubble.net/image.3075086970.5867/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200" height="200" />
 <div> 💻 Web Development graduate at Le Wagon London</div>
 <div> 🌱 I’m currently learning Python 🐍 and more to come</div>
 <div> 👯 I’m looking to collaborate on front or back end projects on Ruby on Rails</div>
 <div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer&text=#r&fontSize=#)
+<!-- <img src="https://ih1.redbubble.net/image.3075086970.5867/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200" height="200" /> -->
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)
 
 
 <!--

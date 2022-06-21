@@ -2,7 +2,7 @@
 
 - 💻 Web Development graduate at Le Wagon London
 - 🌱 I’m currently learning Python 🐍
-- 👯 I’m looking to collaborate on front or back end projects
+- 👯 I’m looking to collaborate on front or back end projects on Ruby on Rails
 - ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands
 
 <!--

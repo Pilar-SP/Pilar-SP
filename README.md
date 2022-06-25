@@ -14,8 +14,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&margin-h=15)](https://github.com/Pilar-SP/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
 
 <!--
 **Pilar-SP/Pilar-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

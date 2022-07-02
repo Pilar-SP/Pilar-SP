@@ -5,7 +5,7 @@
 <div align="center">
 <div> 💻 Web Development graduate at Le Wagon London</div>
 <div> 🌱 I’m currently learning Python 🐍 and more to come</div>
-<div> 👯 I’m looking to collaborate on front or back end projects on Ruby on Rails</div>
+<div> 👯 I’m looking to collaborate on projects on Ruby on Rails</div>
 <div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
 </div>
 

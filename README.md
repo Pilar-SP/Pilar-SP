@@ -15,7 +15,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&title=Commits,Pulls,Followers,Repositories,Issues&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
 
 
 <!--

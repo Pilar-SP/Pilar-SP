@@ -3,10 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=#&fontSize=#)
 
-<div align="justify">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div> 💻 Web Development graduate at Le Wagon London</div>
-    <div> 🌱 I’m currently learning Python and React</div>
-    <div> 👯 I’m looking to collaborate on projects on Ruby on Rails</div>
+<div align="center">
+    <div> 💻 Web Development graduate at Le Wagon London &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div> 🌱 I’m currently learning Python and React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div> 👯 I’m looking to collaborate on projects on Ruby on Rails &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
     <div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
 </div>
 
@@ -17,7 +17,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&title=Commits,Pulls,Followers,Repositories,Issues&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
 
 
 <!--

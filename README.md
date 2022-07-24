@@ -2,14 +2,16 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=#&fontSize=#)
+
 <div align="center">
-<div> 💻 Web Development graduate at Le Wagon London</div>
-<div> 🌱 I’m currently learning Python and React</div>
-<div> 👯 I’m looking to collaborate on projects on Ruby on Rails</div>
-<div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
+    <div align="justify"> 💻 Web Development graduate at Le Wagon London</div>
+    <div align="justify"> 🌱 I’m currently learning Python and React</div>
+    <div align="justify"> 👯 I’m looking to collaborate on projects on Ruby on Rails</div>
+    <div align="justify"> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div>
 </div>
 
-<!-- <img src="https://ih1.redbubble.net/image.3075086970.5867/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200" height="200" /> -->
+
+<!-- <img src="https://ih1.redbubble.net/image.3075086970.5867/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200" height="120" /> -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)

@@ -9,7 +9,7 @@
     <div> 💻 Web Development graduate at Le Wagon London
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-    <div> 🌱 I’m currently learning Python and React
+    <div> 🌱 I’m currently learning Tailwind and React
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
@@ -25,9 +25,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=#r&fontSize=#)
 
-
+<!--
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=Pilar-SP&no-frame=true&margin-w=15)](https://github.com/Pilar-SP/github-profile-trophy)
-
+-->
 
 <!--
 **Pilar-SP/Pilar-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

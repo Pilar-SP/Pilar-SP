@@ -6,16 +6,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=#&fontSize=#)
 
 <div align="center">
-<!--     <div> 💻 Web Development graduate at Le Wagon London
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </div> -->
-    <div> 🌱 I’m currently learning Tailwind and React
+    <div> 💻 I am a junior software engineer with Ruby on Rails experience
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
+    <div> 🌱 I’m currently learning React and Django
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
     <div> 👯 I’m looking to collaborate on projects on Ruby on Rails
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
+        <br>
 <!--     <div> ⚡ Fun fact: I hiked 118.5km from coast to coast across the Highlands</div> -->
 </div>
 

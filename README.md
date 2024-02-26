@@ -6,14 +6,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=#&fontSize=#)
 
 <div align="center">
-    <div> 💻 I am a junior software engineer with Ruby on Rails experience
+    <div> 🙋‍♀️ I am a junior software engineer with Ruby on Rails experience
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
     <div> 🌱 I’m currently learning React and Django
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-    <div> 👯 I’m looking to collaborate on projects on Ruby on Rails
+    <div> 🛤️ I’m looking to collaborate on Ruby on Rails projects
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
         <br>
